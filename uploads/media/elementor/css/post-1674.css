@@ -1,0 +1,25 @@
+.elementor-1674 .elementor-element.elementor-element-b21e621{margin-top:100px;margin-bottom:50px;}.elementor-1674 .elementor-element.elementor-element-8e12e53 .elementor-heading-title{color:#FFFFFF;font-family:"Gotham", Sans-serif;font-size:80px;font-weight:900;text-transform:uppercase;line-height:1.2em;}.elementor-1674 .elementor-element.elementor-element-046219f{margin-top:50px;margin-bottom:100px;}.elementor-1674 .elementor-element.elementor-element-731bed4 > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-1674 .elementor-element.elementor-element-731bed4:not(.elementor-motion-effects-element-type-background), .elementor-1674 .elementor-element.elementor-element-731bed4 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#AECACB;}.elementor-1674 .elementor-element.elementor-element-731bed4{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:40px 40px 40px 40px;}.elementor-1674 .elementor-element.elementor-element-731bed4 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-1674 .elementor-element.elementor-element-f30782a{text-align:center;color:#FFFFFF;}:root{--page-title-display:none;}body.elementor-page-1674:not(.elementor-motion-effects-element-type-background), body.elementor-page-1674 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://lookoutfilmfestival.org/wp-content/uploads/media/bg-1.jpg");background-position:bottom center;background-repeat:no-repeat;background-size:cover;}@media(min-width:768px){.elementor-1674 .elementor-element.elementor-element-3ae66a0{width:40%;}.elementor-1674 .elementor-element.elementor-element-af18ebc{width:59.665%;}}/* Start custom CSS for section, class: .elementor-element-731bed4 */.follow-row  .elementor-container {
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    grid-auto-rows: 1fr;
+    grid-gap: 20px;
+}
+
+.follow-row  .elementor-container .elementor-column {
+    min-width: 100%;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Gotham';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://lookoutfilmfestival.org/wp-content/uploads/media/Gotham-Book-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Gotham';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('https://lookoutfilmfestival.org/wp-content/uploads/media/Gotham-Bold.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */

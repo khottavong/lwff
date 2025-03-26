@@ -1,0 +1,15 @@
+.elementor-1674 .elementor-element.elementor-element-b21e621 > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:flex-end;align-items:flex-end;}.elementor-1674 .elementor-element.elementor-element-b21e621{margin-top:100px;margin-bottom:50px;}.elementor-1674 .elementor-element.elementor-element-8e12e53 .elementor-heading-title{color:#FFFFFF;font-family:"Gotham", Sans-serif;font-size:80px;font-weight:900;text-transform:uppercase;line-height:1.2em;}.elementor-1674 .elementor-element.elementor-element-e7b35a3{text-align:right;}.elementor-1674 .elementor-element.elementor-element-046219f{margin-top:50px;margin-bottom:0px;}.elementor-1674 .elementor-element.elementor-element-fca0461{margin-top:00px;margin-bottom:100px;}:root{--page-title-display:none;}body.elementor-page-1674:not(.elementor-motion-effects-element-type-background), body.elementor-page-1674 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://lookoutwildstg.wpengine.com/wp-content/uploads/bg-ticket.jpg");background-position:bottom center;background-repeat:no-repeat;background-size:cover;}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Gotham';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://lookoutwildfil.wpengine.com/wp-content/uploads/media/Gotham-Book-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Gotham';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('https://lookoutwildfil.wpengine.com/wp-content/uploads/media/Gotham-Bold.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */

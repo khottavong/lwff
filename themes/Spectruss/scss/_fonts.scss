@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "Gotham";
+    src: url(./fonts/Gotham-Book.otf) $otf;
+    font-weight: $book;
+}
+
+@font-face {
+    font-family: "Gotham";
+    src: url(./fonts/Gotham-Medium.otf) $otf;
+    font-weight: $medium;
+}
+
+@font-face {
+    font-family: "Gotham";
+    src: url(./fonts/Gotham-Bold.otf) $otf;
+    font-weight: $bold;
+}
+
+@font-face {
+    font-family: "Gotham";
+    src: url(./fonts/Gotham-Black.otf) $otf;
+    font-weight: $black;
+}
